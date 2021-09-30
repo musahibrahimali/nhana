@@ -7,7 +7,7 @@ some demo c++ code
 - click on code on the github page of this repository
 ![preview](instruction_1.png)
 - clone or download as zip
-![preview](instruction_1.png)
+![preview](instruction_2.png)
 - unzip the zipped file on your machine and ...
 
 # next set of instructions
