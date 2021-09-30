@@ -5,9 +5,9 @@ some demo c++ code
 
 # Geting the code on your machine
 - click on code on the github page of this repository
-![preview]('instrction_1)
+![preview](instruction_1.png)
 - clone or download as zip
-![preview]('instrction_1)
+![preview](instruction_1.png)
 - unzip the zipped file on your machine and ...
 
 # next set of instructions
